@@ -5,7 +5,7 @@
         <div class="d-flex row align-center justify-center">
           <h1 class="text-center mt-4 love-title">Feliz Dia dos Namorados 💕</h1>
         </div>
-        <BackgroundMusic />
+        <BackGroundMusic />
         <LoveMessage />
         <Countdown />
         <PhotoGallery />
@@ -17,7 +17,7 @@
 <script setup>
 import Countdown from "./components/Countdown.vue";
 import PhotoGallery from "./components/PhotoGallery.vue";
-import BackgroundMusic from "./components/BackgroundMusic.vue";
+import BackgroundMusic from "./components/BackGroundMusic.vue";
 import LoveMessage from "./components/LoveMessage.vue";
 </script>
 
