@@ -5,7 +5,7 @@
         <div class="d-flex row align-center justify-center">
           <h1 class="text-center mt-4 love-title">Feliz Dia dos Namorados 💕</h1>
         </div>
-        <BackGroundMusic />
+        <BackgroundMusic />
         <LoveMessage />
         <Countdown />
         <PhotoGallery />
